@@ -3,4 +3,4 @@
 -------------------
 
 
-![alt text](https://ericshiu.github.io/fishGame/index.)
+![alt text](https://ericshiu.github.io/fishGame/index.jpg)
